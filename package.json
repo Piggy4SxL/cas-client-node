@@ -1,0 +1,17 @@
+{
+  "name": "cas-client-node",
+  "version": "1.0.0",
+  "description": "cas client demo for CB",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "SxL",
+  "license": "MIT",
+  "dependencies": {
+    "http-cas-client": "^0.4.1",
+    "koa": "^2.6.2",
+    "koa-bodyparser": "^4.2.1",
+    "koa-router": "^7.4.0"
+  }
+}
